@@ -1,0 +1,18 @@
+{
+  "name": "hosting-pro-landing-page",
+  "version": "2.1.9",
+  "description": "this is a landing page for a online hosting platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "media-query",
+    "flexbox",
+    "grid"
+  ],
+  "author": "Pritam Pal",
+  "license": "ISC"
+}
