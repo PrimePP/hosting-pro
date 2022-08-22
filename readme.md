@@ -4,8 +4,6 @@
 
 ![ImageThumbnail](./1.png)
 ![ImageThumb](./2.png)
-![Image](./3.png)
-![Image](./4.png)
 ![ImageThum](./5.png)
 
 ***
@@ -24,7 +22,7 @@ This project is a landing page of a company HostingPro. It is a purely responsiv
 - Personal Learnings in this project 
     - HTML
     - CSS 
-- Deployed on *Netlify*  **[ClickMe]()** 
+- Deployed on *Vercel*  **[ClickMe](https://hosting-pro.vercel.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
