@@ -8,12 +8,14 @@
 
 ***
 ### Project details
-This project is a landing page of a company HostingPro. It is a purely responsive design , created for Desktop , mobile , and tablet usage. Only UI is developed for this project for this project, functionality is not .
-
+This project is a landing page of a company HostingPro. It is a purely responsive design , created for Desktop , and tablet usage. Only UI is developed for this project for this project, functionality is not.  
+Screen sizes
+- Tablet(768 px)
+- Laptop(Full-width)
 
 ***
 ### Other Important Details
-- >Time taken for completion : 16 hours
+- >Time taken for completion : 18 hours
 - Technologies Used
   - HTML
   - CSS
