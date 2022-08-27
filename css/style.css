@@ -394,9 +394,7 @@ body{
     color: #aaaaaa;
 }
 
-.review-cards{
-    /* border: 2px solid green; */
-}
+
 .review-card-items{
     height: 200px;
     width: 450px;
@@ -760,3 +758,4 @@ body{
         left: -35px;
     }
 }
+
